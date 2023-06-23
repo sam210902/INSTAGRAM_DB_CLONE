@@ -1,2 +1,1 @@
-This repository have two files, first one is "instagram_db_clone_queries.sql" have all the related sql commands along with their explanation.
-Second files is "instagram_db_clone_queries_resulant_tables.sql" which have all the resultant tables as per the sql commands in first file
+Here are some of the queries related instagram database clone analysis.I used the concepts of joins,group by,CTEs(Common table expressioins) etc.
